@@ -5,7 +5,7 @@ public class InitialClass {
 	public InitialClass() {
 		// TODO Auto-generated constructor stub
 		
-		System.out.println();
+		System.out.println("Test");
 	}
 
 	public static void main(String[] args) {
